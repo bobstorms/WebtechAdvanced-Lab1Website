@@ -1,0 +1,23 @@
+* {
+    color: white;
+    font-family: 'Lato';
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20%;
+    background-color: #2656a3;
+}
+
+img {
+    align-self: start;
+    height: 100px;
+    width: auto;
+}
