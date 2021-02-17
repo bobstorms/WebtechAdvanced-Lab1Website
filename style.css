@@ -17,6 +17,7 @@ body {
 }
 
 img {
+    align-self: start;
     height: 100px;
     width: auto;
 }
